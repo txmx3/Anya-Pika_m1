@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 
 global.botname = "Queen Anya" 
-global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
+global.botLanguage = "English" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
 global.author = "MkM Inc."  
 global.packname = "Erstellt für User"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
