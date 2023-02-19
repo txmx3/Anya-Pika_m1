@@ -29,7 +29,7 @@ global.email = "Max.public.community@gmail.com" // put your email here
 global.premium = ['916900******','917355******']  // available soon
 global.sudo = ['491777062822','436764242454','4915212908434']  // Co - Owners //
 
-global.prefa = ['-','~','#']
+global.prefa = ['#']
 
 //--------Random bot name for Info section--------\\
 name16 = "Anya v1"
